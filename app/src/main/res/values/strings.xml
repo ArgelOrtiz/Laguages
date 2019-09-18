@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">AOALanguages</string>
+    <string name="menu_ox">Ox</string>
+    <string name="menu_horse">Horse</string>
+    <string name="menu_goat">Goat</string>
+    <string name="menu_dragon">Dragon</string>
+    <string name="menu_rooster">Rooster</string>
+    <string name="menu_cat">Cat</string>
+    <string name="menu_wild_pig">Wild pig</string>
+    <string name="menu_monkey">Monkey</string>
+    <string name="menu_dog">Dog</string>
+    <string name="menu_rat">Rat</string>
+    <string name="menu_snake">Snake</string>
+    <string name="menu_tiger">Tiger</string>
+
+    <string name="description_ox">(1937, 1949, 1961, 1973, 1985, 1997, 2009) \ n Buffalos or oxen are patient and calm animals, which radiate much love and love and instill respect.
+                         Great workers, they feel comfortable surrounded by order and cleanliness and achieve success thanks to their effort. For them the most important thing is the family, although they are jealous with their partner.
+                         They love art and music. They don\'t like to argue, although they do obey him.</string>
+
+    <string name="description_horse">(1942, 1954, 1966, 1978, 1990, 2002, 2014) \ n
+                         Popular, optimistic, full of joy, adventurous, eloquent, impatient, enterprising, enthusiastic about life, great lovers and friends.
+                         His great passion is money and travel. They like to meet new people, different cultures, speak languages and are the life of the parties. Your physical attractiveness
+                         and their beauty makes it easy for them to find love: a trap in which they fall hopelessly.</string>
+
+    <string name="description_goat">(1943, 1955, 1967, 1979, 1991, 2003, 2015) \ n
+                         The goat is creative, artistic, positive, elegant, feminine, affable, compassionate, weeping, sensitive, dreamy, proud and sad. They do not pursue material wealth
+                         and prefer to live on their reveries. They love family, children, home and being in touch with nature. They are very hardworking, although they don\'t like the
+                         pressure from a deadline, or from a boss.</string>
+
+    <string name="description_dragon">(1940, 1952, 1964, 1976, 1988, 2000, 2012) \ n
+                         Symbol of the Emperor in China, the dragon is imaginative, magnanimous, enterprising, lucky and powerful. It is full of strength and vitality.
+                         He is a true accumulator of energy and if you get angry, he will be enraged in such a way that he will lose his temper. It will be difficult to calm him, because he does not believe anyone or anyone.
+                         They usually give good advice and are fortunate in both money and love. They are very sentimental and fall madly in love.</string>
+
+    <string name="description_rooster">(1945, 1957, 1969, 1981, 1993, 2005, 2017) \ n
+                         Attractive and seductive, talented and appreciated. They are meticulous, efficient, orderly, good conversationalists, observers, selfish, usurers, pragmatists and very familiar.
+                         In love they are romantic, stubborn and fight for the control of their partner. They usually stand out as public relations or as artists. They don\'t pay too much attention to their health.</string>
+
+    <string name="description_cat">(1903, 1915, 1927, 1939, 1951, 1963, 1975, 1987, 1999, 2011) \ n
+                         It is a very good year for the rabbit, take advantage of all the opportunities that will be presented to you and enjoy the year. Avoid being so impulsive and think before talking about this
+                         way you will avoid regretting your words.</string>
+
+    <string name="description_wild_pig">(1947, 1959, 1971, 1983 1995, 2007, 2019) \ n
+                         It is a sincere, honest, confident, educated, affectionate, helpful, brave, determined animal, with great willpower, without great pretensions or vanity,
+                         With feet on the ground. They are very nice and have impeccable taste and manners. In love they are sensual, passionate and patient, but to a point.
+                         They are very hardworking, although the lack of attraction for sport and apathy will cause their physique to suffer and gain excess weight.</string>
+
+    <string name="description_monkey">(1944, 1956, 1968, 1980, 1992, 2004, 2016) \ n
+                         Animal more similar to the human being, is witty, funny, friendly, quick and awake, buyer, persuasive, sociable, able to solve
+                         Any problem, however difficult it may be. Their relationships with friends and friends are often conflictive, because it does not support not being valued. They are in good health,
+                         although his excesses at parties, alcohol and drugs could take its toll.</string>
+
+    <string name="description_dog">(1946, 1958, 1970, 1982, 1994, 2006, 2018) \ n
+                         The dog is a being dedicated to work, honest, reliable, diligent, with a great sense of justice and loyalty. Captivate everyone with their exciting personality,
+                         his good humor and his great ability to listen to the problems of others and give good advice. In love they are faithful and loyal, although very jealous when their partner
+                         He is not at home. Nerves are your biggest health problem.</string>
+
+    <string name="description_rat">(1936, 1948, 1960, 1972, 1984, 1996, 2008) \ n
+                         Those born under the sign of the Rat are wise people who like to surround themselves with family and friends, who help in their daily chores and problems.
+                         Good workers, savers and good managers of your economy.</string>
+
+    <string name="description_snake">(1941, 1953, 1965, 1977, 1989, 2001, 2013) \ n
+                         Snakes people are cunning, they know what they want and how to get it. Your conversation is elegant and fluid. They are intense and prudent at the same time.
+                         They are jealous and possessive of their family but loyal. They like to pamper their friends and expect from them a reciprocal attitude. If they feel disdained or fail in their attempts,
+                         They may be angry for hours, although they are good at keeping calm and looking calm in difficult situations.</string>
+
+    <string name="description_tiger">(1938, 1950, 1962, 1974, 1986, 1998, 2010) \ n
+                         The people of this sign are very passionate and full of energy. They do not go unnoticed, they are adventurous, independent, resourceful, impulsive and they like fun.
+                         They are friends for a lifetime, although they like to be the leader of the group. In the world of relationships, the strongest, sexy and seductive are shown, although
+                         excessive behavior</string>
+</resources>

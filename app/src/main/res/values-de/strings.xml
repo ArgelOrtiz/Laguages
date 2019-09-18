@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">AOASprachen</string>
+    <string name="menu_ox">Ox</string>
+    <string name="menu_horse">Pferd</string>
+    <string name="menu_goat">Ziege</string>
+    <string name="menu_dragon">Drache</string>
+    <string name="menu_rooster">Hahn</string>
+    <string name="menu_cat">Cat</string>
+    <string name="menu_wild_pig">Wildschwein</string>
+    <string name="menu_monkey">Affe</string>
+    <string name="menu_dog">Hund</string>
+    <string name="menu_rat">Rat</string>
+    <string name="menu_snake">Schlange</string>
+    <string name="menu_tiger">Tiger</string>
+
+    <string name="description_ox">(1937, 1949, 1961, 1973, 1985, 1997, 2009) \n Büffel oder Ochsen sind geduldige und ruhige Tiere, die viel Liebe und Liebe ausstrahlen und Respekt einflößen.
+                         Großartige Arbeiter, sie fühlen sich von Ordnung und Sauberkeit umgeben und erzielen dank ihres Einsatzes Erfolg. Für sie ist die Familie das Wichtigste, obwohl sie auf ihren Partner eifersüchtig sind.
+                         Sie lieben Kunst und Musik. Sie streiten nicht gern, obwohl sie ihm gehorchen.</string>
+
+    <string name="description_horse">(1942, 1954, 1966, 1978, 1990, 2002, 2014) \n
+                         Populär, optimistisch, voller Freude, abenteuerlustig, beredt, ungeduldig, unternehmungslustig, lebensbegeistert, großartige Liebhaber und Freunde.
+                         Seine große Leidenschaft ist Geld und Reisen. Sie mögen neue Leute treffen, verschiedene Kulturen, sprechen Sprachen und sind das Leben der Parteien. Ihre körperliche Attraktivität
+                         und ihre Schönheit macht es ihnen leicht, Liebe zu finden: eine Falle, in die sie hoffnungslos fallen.</string>
+
+    <string name="description_goat">(1943, 1955, 1967, 1979, 1991, 2003, 2015) \n
+                         Die Ziege ist kreativ, künstlerisch, positiv, elegant, weiblich, umgänglich, mitfühlend, weinend, einfühlsam, verträumt, stolz und traurig. Sie streben keinen materiellen Reichtum an
+                         und lieber von ihren Träumen leben. Sie lieben Familie, Kinder, Zuhause und den Kontakt zur Natur. Sie sind sehr fleißig, obwohl sie das nicht mögen
+                         Druck von einer Frist oder von einem Chef.</string>
+
+    <string name="description_dragon">(1940, 1952, 1964, 1976, 1988, 2000, 2012) \n
+                         Als Symbol des Kaisers in China ist der Drache einfallsreich, großmütig, unternehmungslustig, glücklich und mächtig. Es ist voller Kraft und Vitalität.
+                         Er ist ein wahrer Energiespeicher, und wenn Sie wütend werden, wird er so wütend, dass er die Beherrschung verliert. Es wird schwierig sein, ihn zu beruhigen, weil er niemandem glaubt.
+                         Sie geben normalerweise gute Ratschläge und haben das Glück, Geld und Liebe zu haben. Sie sind sehr sentimental und verlieben sich ineinander.</string>
+
+    <string name="description_rooster">(1945, 1957, 1969, 1981, 1993, 2005, 2017) \n
+                         Attraktiv und verführerisch, talentiert und geschätzt. Sie sind akribisch, effizient, ordentlich, gute Gesprächspartner, Beobachter, egoistisch, Wucherer, Pragmatiker und sehr vertraut.
+                         Verliebt sind sie romantisch, stur und kämpfen um die Kontrolle ihres Partners. Sie fallen normalerweise als PR-Mitarbeiter oder als Künstler auf. Sie achten nicht zu sehr auf ihre Gesundheit.</string>
+
+    <string name="description_cat">(1903, 1915, 1927, 1939, 1951, 1963, 1975, 1987, 1999, 2011) \n
+                         Es ist ein sehr gutes Jahr für das Kaninchen, nutzen Sie alle Möglichkeiten, die Ihnen geboten werden, und genießen Sie das Jahr. Vermeiden Sie es, so impulsiv zu sein und überlegen Sie, bevor Sie darüber sprechen
+                         So vermeiden Sie es, Ihre Worte zu bereuen.</string>
+
+    <string name="description_wild_pig">(1947, 1959, 1971, 1983, 1995, 2007, 2019) \n
+                         Es ist ein aufrichtiges, ehrliches, selbstbewusstes, gebildetes, liebevolles, hilfsbereites, mutiges, entschlossenes Tier mit großer Willenskraft, ohne große Ansprüche oder Eitelkeit.
+                         Mit den Füßen auf dem Boden. Sie sind sehr nett und haben einwandfreien Geschmack und Manieren. In der Liebe sind sie sinnlich, leidenschaftlich und geduldig, aber bis zu einem gewissen Punkt.
+                         Sie sind sehr fleißig, obwohl die mangelnde Anziehungskraft für Sport und Apathie dazu führt, dass ihr Körper leidet und übergewichtig wird.</string>
+
+    <string name="description_monkey">(1944, 1956, 1968, 1980, 1992, 2004, 2016) \n
+                         Tier mehr ähnlich wie der Mensch, ist witzig, lustig, freundlich, schnell und wach, Käufer, überzeugend, gesellig, in der Lage zu lösen
+                         Jedes Problem, wie schwierig es auch sein mag. Ihre Beziehungen zu Freunden und Bekannten sind oftmals widersprüchlich, weil sie es nicht unterstützen, nicht bewertet zu werden. Sie sind bei guter Gesundheit,
+                         Obwohl seine Exzesse auf Partys, Alkohol und Drogen seinen Tribut fordern könnten.</string>
+
+    <string name="description_dog">(1946, 1958, 1970, 1982, 1994, 2006, 2018) \n
+                         Der Hund ist ein Wesen, das sich der Arbeit verschrieben hat, ehrlich, zuverlässig, fleißig, mit einem großen Sinn für Gerechtigkeit und Loyalität. Fesseln Sie alle mit ihrer aufregenden Persönlichkeit,
+                         seine gute Laune und seine große Fähigkeit, auf die Probleme anderer zu hören und gute Ratschläge zu geben. In der Liebe sind sie treu und treu, wenn auch sehr eifersüchtig, wenn ihr Partner
+                         Er ist nicht zu hause Nerven sind Ihr größtes Gesundheitsproblem.</string>
+
+    <string name="description_rat">(1936, 1948, 1960, 1972, 1984, 1996, 2008) \n
+                         Die im Zeichen der Ratte Geborenen sind weise Menschen, die sich gerne mit Familie und Freunden umgeben, die bei ihren täglichen Aufgaben und Problemen helfen.
+                         Gute Arbeiter, Sparer und gute Manager Ihrer Wirtschaft.</string>
+
+    <string name="description_snake">(1941, 1953, 1965, 1977, 1989, 2001, 2013) \n
+                         Schlangenmenschen sind schlau, sie wissen, was sie wollen und wie sie es bekommen. Ihr Gespräch ist elegant und flüssig. Sie sind intensiv und umsichtig zugleich.
+                         Sie sind eifersüchtig und besitzergreifend gegenüber ihrer Familie, aber loyal. Sie verwöhnen ihre Freunde gerne und erwarten von ihnen eine gegenseitige Einstellung. Wenn sie sich verachtet fühlen oder in ihren Versuchen scheitern,
+                         Sie können stundenlang wütend sein, obwohl sie gut darin sind, ruhig zu bleiben und in schwierigen Situationen ruhig auszusehen.</string>
+
+    <string name="description_tiger">(1938, 1950, 1962, 1974, 1986, 1998, 2010) \n
+                         Die Menschen dieses Zeichens sind sehr leidenschaftlich und voller Energie. Sie bleiben nicht unbemerkt, sie sind abenteuerlustig, unabhängig, einfallsreich, impulsiv und sie mögen Spaß.
+                         Sie sind Freunde fürs Leben, obwohl sie gerne der Anführer der Gruppe sind. In der Welt der Beziehungen werden jedoch die Stärksten, Sexy und Verführerischsten gezeigt
+                         übermäßiges Verhalten</string>
+</resources>
